@@ -6,12 +6,12 @@
 
 - [ ] 语言
 
-## 参考资料
+## Reference
 
-### 语言
+### Language
 
 - [Cherno C++](https://space.bilibili.com/364152971/channel/collectiondetail?sid=13909)
 
-## 特别鸣谢
+## Thanks
 
 - 感谢 [JetBrains](https://www.jetbrains.com/) 提供的非商业开源软件开发授权
