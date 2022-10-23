@@ -4,9 +4,9 @@
 
 ### Language
 
-#### Reference
+**Reference**: [Cherno C++](https://space.bilibili.com/364152971/channel/collectiondetail?sid=13909)
 
-- [Cherno C++](https://space.bilibili.com/364152971/channel/collectiondetail?sid=13909)
+**ToDo**:
 
 - [ ] cshub4cxx.cpp
 
